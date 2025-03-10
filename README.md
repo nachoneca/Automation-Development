@@ -49,22 +49,6 @@ This automation was developed as part of a **technical test** to evaluate skills
 
 ---
 
-## 🛠 **Installation & Setup**  
-
-### **🔹 Requirements:**  
-✅ **Power Automate Desktop** - [Download Here](https://flow.microsoft.com/en-us/desktop/)  
-✅ **Microsoft Excel** (For reading/writing candidate data)  
-✅ **Edge/Chrome Extension for Web Automation** - [Install Here](https://chrome.google.com/webstore/)  
-
-### **🔹 How to Run the Automation:**  
-1. **Open Power Automate Desktop (PAD)**  
-2. **Import the provided automation flow**  
-3. **Modify paths if needed (Excel file location, CV folder)**  
-4. **Run the automation** and monitor execution  
-5. **Review the extracted data in Excel and CV folder**  
-
----
-
 ## ❓ **Questions & Business Considerations**  
 The following section answers key questions regarding **monitoring, potential issues, and future improvements**:  
 
@@ -86,16 +70,10 @@ The following section answers key questions regarding **monitoring, potential is
 
 ---
 
-## 📩 **Submission**  
-The final project has been uploaded to this GitHub repository and submitted via:  
-🔗 **[Microsoft Forms Submission Link](https://forms.microsoft.com/r/2Q6iZpYvPT)**  
-
----
-
 ## 📞 **Contact**  
 For any questions, reach out to:  
-📧 [Your Email]  
-🔗 [Your LinkedIn Profile]  
+📧 Ignacionecasek@gmail.com  
+🔗 www.linkedin.com/in/ignacionecasek
 
 ---
 
