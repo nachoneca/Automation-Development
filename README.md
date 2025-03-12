@@ -36,14 +36,16 @@ This automation was developed as part of a **technical test** to evaluate skills
 ## 📑 **Delivery Format**  
 
 ### **Uploaded Files in GitHub:**  
-✔️ **`Automation_Summary.pdf`** → Includes:  
+✔️ **`Project_Description.pdf`** → Includes:  
    - 📸 Screenshots of the automation in **Power Automate Desktop**  
    - 📝 **Flowchart** explaining the logic  
    - 📋 **Written explanation** addressing the use case and assumptions  
 
-✔️ **`LinkedIn_Profiles.xlsx`** → Input Excel file containing LinkedIn URLs.  
+✔️ **`Linkedin.xlsx`** → Input Excel file containing LinkedIn URLs.
 
-✔️ **`/CVs/` Folder** → Contains downloaded CVs with structured filenames.  
+✔️ **`Linkedin_After_Automation.xlsx`** → Excel file containing all the data from LinkedIn URLs.
+
+✔️ **`Linkedin` Folder** → Contains downloaded CVs with structured filenames.  
 
 ✔️ **`README.md`** → This documentation.  
 
